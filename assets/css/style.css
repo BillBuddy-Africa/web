@@ -12719,10 +12719,10 @@ p:last-child {
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 1.3;
-  color: #082720;
+  color: #000000;
 }
 .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #082720;
+  color: #000000;
 }
 .h1 a:hover, .h2 a:hover, .h3 a:hover, .h4 a:hover, .h5 a:hover, .h6 a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   color: #0bce5a;
@@ -12945,12 +12945,12 @@ img {
 .section-title .sub-title {
   display: block;
   line-height: 1;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 1.6px;
   margin-bottom: 15px;
 }
 .section-title .sub-title.two {
-  color: #082720;
+  color: #ffffff;
   display: -webkit-inline-box;
   padding: 10px 20px;
 }
@@ -13970,12 +13970,13 @@ Home Three Hero Area CSS
 Page Banner Area CSS
 ===================================================*/
 .page-banner-area {
-  padding-top: 305px;
+  padding-top: 180px;
   padding-bottom: 180px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .page-banner-area .page-banner-shape-1 {
   right: 282px;
   bottom: 100px;
