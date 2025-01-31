@@ -12907,7 +12907,7 @@ img {
 }
 .section-heading .sub-title {
   display: block;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1;
   letter-spacing: 1.6px;
   margin-bottom: 18px;
@@ -14276,11 +14276,10 @@ Advice Area CSS
 .advice-revenue-area .advice-content ul li {
   position: relative;
   display: inline-block;
-  color: #082720;
   font-size: 100px;
   font-weight: 600;
   margin-right: 0;
-  color: #082720;
+  color: #000000;
   padding: 10px 20px;
   border-radius: 100px;
 }
@@ -14738,9 +14737,10 @@ Home Two About Us Area CSS
   margin-left: auto;
 }
 .about-image .about-image-5 {
-  left: -110px;
-  bottom: 170px;
+  left: -50px;
+  bottom: 5px;
   position: absolute;
+  width: 270px;
 }
 
 .about-us-content .check {
@@ -14748,7 +14748,7 @@ Home Two About Us Area CSS
   padding-right: 0;
   margin-bottom: 0;
   list-style-type: none;
-  max-width: 430px;
+  max-width: 340px;
 }
 .about-us-content .check li {
   position: relative;
@@ -15712,7 +15712,7 @@ Home Two FAQ Area CSS
 App Area CSS
 ===================================================*/
 .download-area {
-  padding: 80px 80px;
+  padding: 30px 80px;
 }
 .download-area .section-heading {
   max-width: 500px;
@@ -16320,7 +16320,7 @@ Account Area CSS
 About Page
 ===================================================*/
 .about-area.two .about-image .about-image-5 {
-  border: 1px solid rgba(12, 58, 48, 0.2);
+  /* border: 1px solid rgba(12, 58, 48, 0.2); */
   box-shadow: 0px 4px 4px 0px rgba(8, 39, 32, 0.02);
 }
 .about-area.two .about-us-content .check li {

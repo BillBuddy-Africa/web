@@ -1060,38 +1060,9 @@ include "./components/mobile-navbar.php";
                 </div>
             </div>
         </div>
-        <!-- End Faq Area -->
-
-        <!-- Start App Area -->
-        <div class="app-area pb-120 overflow-hidden">
-            <div class="container">
-                <div class="download-area bg-color-edf1ee radius-30">
-                    <div class="row g-4 align-items-center">
-                        <div class="col-lg-6 col-md-12" data-cues="slideInRight" data-duration="800">
-                            <div class="section-heading mb-0">
-                                <span class="sub-title">DOWNLOAD OUR APP</span>
-                                <h2>Experience <span><img src="assets/images/svg/lines-1.svg" alt="image">The</span> Future Of Banking</h2>
-                                <p class="mb-5">With a robust suite of products ranging from digital banking and payment processing to wealth management and blockchain applications.</p>
-
-                                <div class="app-btn">
-                                    <a href="https://play.google.com/store/apps/category/FAMILY?hl=en" target="_blank" class="me-3">
-                                        <img class="rounded-3" src="assets/images/app/app-image-2.jpg" alt="image">
-                                    </a>
-                                    <a href="https://www.apple.com/app-store/" target="_blank">
-                                        <img class="rounded-3" src="assets/images/app/app-image-3.jpg" alt="image">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-12" data-cues="slideInLeft" data-duration="800">
-                            <div class="app-image">
-                                <img class="radius-30" src="assets/images/app/app-image-1.jpg" alt="image">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         
-<?php include "./components/footer.php"; ?>
+<?php 
+include "./components/cta.php";
+include "./components/footer.php";
+?>
