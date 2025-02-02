@@ -80,11 +80,11 @@
                                         About Us
                                     </a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a class="dropdown-item <?php if($page=='Careers'){echo 'active';}?>" href="#">
                                         Careers
                                     </a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a class="dropdown-item <?php if($page=='Contact Us'){echo 'active';}?>" href="contact">
                                        Contact Us

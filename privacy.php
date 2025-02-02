@@ -13,6 +13,7 @@ include "./components/mobile-navbar.php";
                             <h1>Privacy Policy</h1>
                             <span><b>Effective Date:</b> Jan. 31, 2025</span>
                         </div>
+                        
                         <div class="information-collection">
                             <h4>Introduction</h4>
                             <p>At BillBuddy, we are committed to protecting your privacy and safeguarding your personal information. This Privacy Policy describes how we collect, use, store, and protect your data when you use the BillBuddy platform ("the App") for bill payments, cryptocurrency trading, and digital asset management services. By using the BillBuddy app, you agree to the terms outlined in this Privacy Policy.</p>
