@@ -61,7 +61,7 @@
                                     <a href="terms">Terms of Service</a>
                                 </li>
                                 <li>
-                                    <a href="policy">Privacy Policy</a>
+                                    <a href="privacy">Privacy Policy</a>
                                 </li>
                                 <li>
                                     <a href="aml">AML Policy</a>
