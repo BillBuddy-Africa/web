@@ -3,6 +3,22 @@ $page = "Contact Us";
 include "./components/header.php";
 include "./components/navbar.php";
 include "./components/mobile-navbar.php";
+
+    $recaptchaSecret = '6LejQU8rAAAAABRZekqMWo49dYvsISaLqR3WKwMt';
+    $response = $_POST['g-recaptcha-response'];
+    $remoteip = $_SERVER['REMOTE_ADDR'];
+
+    $verify = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret={$recaptchaSecret}&response={$response}&remoteip={$remoteip}");
+    $responseData = json_decode($verify);
+
+    if ($responseData->success) {
+        // Verified successfully
+        //echo "Success!";
+    } else {
+        // Failed verification
+        //echo "reCAPTCHA failed. Please try again.";
+    }
+    
 ?>
 
         <div class="page-banner-area position-relative overflow-hidden" style="background-image: url(assets/images/contact-banner.jpg)">
@@ -45,7 +61,7 @@ include "./components/mobile-navbar.php";
                 </div>
                 <div class="row g-4">
                     <div class="col-lg-8 col-md-12 mx-auto" data-cues="slideInUp" data-duration="800">
-                        <form class="contact-form bg-color-fffaeb radius-30">
+                        <form class="contact-form bg-color-edf1ee radius-30">
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <input type="text" class="form-control" placeholder="Name">
@@ -63,6 +79,9 @@ include "./components/mobile-navbar.php";
                                     <textarea class="form-control textarea" placeholder="Write A Message"></textarea>
                                 </div>
                             </div>
+
+                            <!-- reCAPTCHA widget -->
+                            <div class="g-recaptcha pb-3" data-sitekey="6LejQU8rAAAAAO_roFDBNdNUVcPAndlcQVvCXJab"></div>
 
                             <button type="submit" class="default-btn">Send Message <i class="ri-arrow-right-up-line"></i></button>
                         </form>

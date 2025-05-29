@@ -105,6 +105,7 @@
         </div>
         
         <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <script src="assets/js/swiper-bundle.min.js"></script>
         <script src="assets/js/fslightbox.min.js"></script>
         <script src="assets/js/smooth-scroll.js"></script>

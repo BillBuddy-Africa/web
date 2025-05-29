@@ -17,28 +17,10 @@
                         </a>
                     </li>
 
-                    <li class="mobile-menu-list <?php if($page=='Bill Payment' || $page=='Crypto' || $page=='Gift Cards'){echo 'active';}?>">
-                        <a href="javascript:void(0);">
+                    <li class="mobile-menu-list without-icon <?php if ($page == 'Products') {echo 'active';} ?>">
+                        <a href="products" class="nav-link">
                             Products
                         </a>
-
-                        <ul class="mobile-menu-items">
-                            <li>
-                                <a class="dropdown-item <?php if($page=='Bill Payment'){echo 'active';}?>" href="bill-payment">
-                                    Bill Payment
-                                </a>
-                            </li>
-                            <li>
-                                <a class="dropdown-item <?php if($page=='Crypto'){echo 'active';}?>" href="crypto">
-                                    Buy & Sell Crypto
-                                </a>
-                            </li>
-                            <li>
-                                <a class="dropdown-item <?php if($page=='Gift Cards'){echo 'active';}?>" href="gift-cards">
-                                    Buy & Sell Gift Cards
-                                </a>
-                            </li>
-                        </ul>
                     </li>
 
                     <li class="mobile-menu-list <?php if($page=='FAQ' || $page=='How it Works'){echo 'active';}?>">

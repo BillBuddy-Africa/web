@@ -21,27 +21,9 @@
                         </li>
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle <?php if($page=='Bill Payment' || $page=='Crypto' || $page=='Gift Cards'){echo 'active';}?>" href="#" role="button" data-bs-toggle="dropdown"aria-expanded="false">
+                            <a class="nav-link <?php if ($page == 'Products') {echo 'active';} ?>" href="products">
                                 Products
                             </a>
-
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <a class="dropdown-item <?php if($page=='Bill Payment'){echo 'active';}?>" href="bill-payment">
-                                        Bill Payment
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item <?php if($page=='Crypto'){echo 'active';}?>" href="crypto">
-                                        Buy & Sell Crypto
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item <?php if($page=='Gift Cards'){echo 'active';}?>" href="gift-cards">
-                                        Buy & Sell Gift Cards
-                                    </a>
-                                </li>
-                            </ul>
                         </li>
 
                         <li class="nav-item dropdown">

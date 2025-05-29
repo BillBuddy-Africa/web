@@ -14564,10 +14564,10 @@ Home Two Services Area CSS
 }
 .service-area .faq-content .accordion-item.two {
   border-radius: 0;
-  background-color: #fbf4dc;
+  background-color: #dde8e2;
 }
 .service-area .faq-content .accordion-item.three {
-  background-color: #f9efcf;
+  background-color: #cdddd4;
   border-radius: 0px 0px 30px 30px;
 }
 .service-area .faq-content .accordion-button {
@@ -14576,10 +14576,10 @@ Home Two Services Area CSS
   padding: 50px 50px 50px 50px;
 }
 .service-area .faq-content .accordion-button i {
-  color: #082720;
+  color: #0bce5a;
   font-size: 42px;
-  border-radius: 20px;
-  background-color: #0bce5a;
+  border-radius: 150px;
+  background-color: #000000;
   width: 80px;
   height: 80px;
   line-height: 90px;
@@ -15650,7 +15650,7 @@ FAQ Area CSS
 .faq-content .accordion-item {
   margin-bottom: 20px;
   border-radius: 0;
-  background-color: #fffaeb;
+  background-color: #f0f7f3;
   border: none;
 }
 .faq-content .accordion-item:last-child {
@@ -15661,8 +15661,8 @@ FAQ Area CSS
   padding: 0 30px 20px 30px;
 }
 .faq-content .accordion-button {
-  font-size: 20px;
-  font-weight: 700;
+  font-size: 30px;
+  font-weight: 500;
   font-family: "Inter Tight", sans-serif;
   color: #082720;
   border: none;
