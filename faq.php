@@ -5,7 +5,7 @@ include "./components/navbar.php";
 include "./components/mobile-navbar.php";
 ?>
 
-        <div class="page-banner-area position-relative overflow-hidden" style="background-image: url(assets/images/faq_bg.jpg)">
+        <div class="banner-style position-relative overflow-hidden" style="background-image: url(assets/images/faq_bg.jpg)">
             <div class="container">
                 <div class="page-banner-content">
                     <h1 class="text-white">Frequently Asked Questions</h1>

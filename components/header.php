@@ -19,13 +19,13 @@
         <link rel="stylesheet" href="assets/css/responsive.css">
 
         <title>Billbuddy&reg; :: A New Way to Pay, A New Way to Invest.</title>
-        <link rel="icon" type="image/png" href="assets/images/favicon.png">
+        <link rel="icon" type="image/png" href="assets/images/billbuddy-favicon.png">
     </head>
     <body>
         <div class="preloader-area text-center position-fixed top-0 bottom-0 start-0 end-0" id="preloader">
             <div class="loader position-absolute start-0 end-0">
                 <div class="wavy position-relative fw-light">
-                    <span class="d-inline-block mb-4"><img src="assets/images/loading.svg" width="300" alt="favicon"></span>
+                    <span class="d-inline-block mgb-4"><img src="assets/images/loading.svg" width="300" alt="favicon"></span>
                 </div>
             </div>
         </div>

@@ -1,7 +1,7 @@
         <nav class="navbar main-navbar navbar-expand-lg bg-color-000000" id="navbar">
             <div class="container-fluid side-padding position-relative">
                 <a class="navbar-brand logo-brand p-0" href="./">
-                    <img src="assets/images/bb_logo_light.svg" width="200" alt="image">
+                    <img src="assets/images/mixed_bb_logo_light.svg" width="200" alt="image">
                 </a>
                 <a class="navbar-toggler" data-bs-toggle="offcanvas" href="#navbarOffcanvas" role="button"
                     aria-controls="navbarOffcanvas">
@@ -34,18 +34,13 @@
 
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a class="dropdown-item" href="https://calculator.billbuddy.africa" target="_blank">
+                                    <a class="dropdown-item" href="https://rates.billbuddy.africa" target="_blank">
                                         Rate Calculator
                                     </a>
                                 </li>
                                 <li>
                                     <a class="dropdown-item <?php if($page=='FAQ'){echo 'active';}?>" href="faq">
                                         FAQ's
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item <?php if($page=='How it Works'){echo 'active';}?>" href="how-it-works">
-                                        How it Works
                                     </a>
                                 </li>
                             </ul>
@@ -62,11 +57,6 @@
                                         About Us
                                     </a>
                                 </li>
-                                <!-- <li>
-                                    <a class="dropdown-item <?php if($page=='Careers'){echo 'active';}?>" href="#">
-                                        Careers
-                                    </a>
-                                </li> -->
                                 <li>
                                     <a class="dropdown-item <?php if($page=='Contact Us'){echo 'active';}?>" href="contact">
                                        Contact Us

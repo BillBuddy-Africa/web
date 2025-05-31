@@ -21,7 +21,7 @@ include "./components/mobile-navbar.php";
     
 ?>
 
-        <div class="page-banner-area position-relative overflow-hidden" style="background-image: url(assets/images/contact-banner.jpg)">
+        <div class="banner-style position-relative overflow-hidden" style="background-image: url(assets/images/contact-banner.jpg)">
             <div class="container">
                 <div class="page-banner-content">
                     <h1 class="text-white">Contact Us</h1>

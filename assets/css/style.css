@@ -18125,7 +18125,7 @@ Preloader Area CSS
 =================================================*/
 .preloader-area {
   z-index: 9999;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .preloader-area .loader {
   transform: translateY(-50%);
@@ -18340,6 +18340,14 @@ Preloader Area CSS
     transform: scale(2);
     opacity: 0;
   }
+}
+
+.banner-style {
+    padding-top: 180px;
+    padding-bottom: 180px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /*# sourceMappingURL=style.css.map */

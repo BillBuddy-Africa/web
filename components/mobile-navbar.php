@@ -1,7 +1,7 @@
         <div class="mobile-navbar offcanvas offcanvas-end border-0" data-bs-backdrop="static" tabindex="-1" id="navbarOffcanvas">
             <div class="offcanvas-header">
                 <a href="./" class="logo d-inline-block">
-                    <img src="assets/images/bb_logo_light.svg" width="200" alt="logo">
+                    <img src="assets/images/mixed_bb_logo_light.svg" width="200" alt="logo">
                 </a>
 
                 <button type="button" class="close-btn bg-transparent position-relative lh-1 p-0 border-0" data-bs-dismiss="offcanvas" aria-label="close">
@@ -30,18 +30,13 @@
 
                         <ul class="mobile-menu-items">
                             <li>
-                                <a class="dropdown-item" href="https://calculator.billbuddy.africa" target="_blank">
+                                <a class="dropdown-item" href="https://rayes.billbuddy.africa" target="_blank">
                                     Rate Calculator
                                 </a>
                             </li>
                             <li>
                                 <a class="dropdown-item <?php if($page=='FAQ'){echo 'active';}?>" href="faq">
                                     FAQ's
-                                </a>
-                            </li>
-                            <li>
-                                <a class="dropdown-item <?php if($page=='How it Works'){echo 'active';}?>" href="how-it-works">
-                                    How it Works
                                 </a>
                             </li>
                         </ul>
