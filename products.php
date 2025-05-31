@@ -17,7 +17,7 @@ include "./components/mobile-navbar.php";
         <div class="about-area two">
             <div class="container pt-120 pb-5">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12" data-cues="slideInDown" data-duration="800">
+                    <div class="col-lg-6 col-md-12 order-2 order-md-1" data-cues="slideInDown" data-duration="800">
                         <div class="about-us-content position-relative">
                             <div class="section-heading">
                                 <h2>Buy & Sell Cryptocurrencies</h2>
@@ -29,7 +29,7 @@ include "./components/mobile-navbar.php";
                             <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn">Get Started <i class="ri-arrow-right-up-line"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12" data-cues="slideInUp" data-duration="800">
+                    <div class="col-lg-6 col-md-12 order-1 order-md-2 mb-3" data-cues="slideInUp" data-duration="800">
                         <div class="about-image position-relative">
                             <img class="radius-30" src="assets/images/cryptoimg.jpg" alt="image">
                         </div>
@@ -41,12 +41,12 @@ include "./components/mobile-navbar.php";
         <div class="about-area two pb-5">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12" data-cues="slideInUp" data-duration="800">
+                    <div class="col-lg-6 col-md-12 order-1 order-md-1 mb-3" data-cues="slideInUp" data-duration="800">
                         <div class="about-image position-relative">
                             <img class="radius-30" src="assets/images/giftcardimg.jpg" alt="image">
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12" data-cues="slideInDown" data-duration="800">
+                    <div class="col-lg-6 col-md-12 order-2 order-md-2" data-cues="slideInDown" data-duration="800">
                         <div class="about-us-content position-relative">
                             <div class="section-heading">
                                 <h2>Buy & Sell Gift Cards, Fast & Fuss-Free</h2>
@@ -66,7 +66,7 @@ include "./components/mobile-navbar.php";
         <div class="about-area two">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12" data-cues="slideInDown" data-duration="800">
+                    <div class="col-lg-6 col-md-12 order-2 order-md-1" data-cues="slideInDown" data-duration="800">
                         <div class="about-us-content position-relative">
                             <div class="section-heading">
                                 <h2>Bill Payments with Zero Fuss</h2>
@@ -91,7 +91,7 @@ include "./components/mobile-navbar.php";
                             <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn">Get Started <i class="ri-arrow-right-up-line"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12" data-cues="slideInUp" data-duration="800">
+                    <div class="col-lg-6 col-md-12 order-1 order-md-2 mb-3" data-cues="slideInUp" data-duration="800">
                         <div class="about-image position-relative">
                             <img class="radius-30" src="assets/images/billpaymentimg.jpg" alt="image">
                         </div>
