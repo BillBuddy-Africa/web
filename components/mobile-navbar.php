@@ -73,7 +73,7 @@
                             <a href="https://app.billbuddy.africa/login" target="_blank" class="search-btn login"><i class="ri-account-circle-line"></i> Log in</a>
                         </li>
                         <li>
-                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                         </li>
                     </ul>
                 </div>

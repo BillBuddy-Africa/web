@@ -25,8 +25,8 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://wa.me/+2348103726926?text=Hello,%20Billbuddy%20I%20would%20like%20to%20reach%20out%20to%20the%20support%20team.%20" target="_blank">
-                                        <i class="ri-whatsapp-fill"></i>
+                                    <a href="https://www.tiktok.com/@usebillbuddy" target="_blank">
+                                        <i class="ri-tiktok-fill"></i>
                                     </a>
                                 </li>
                             </ul>

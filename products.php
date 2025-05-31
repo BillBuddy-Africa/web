@@ -26,7 +26,7 @@ include "./components/mobile-navbar.php";
                                 <p>Need to swap coins? Skip the extra steps and swap crypto directly without fiat conversion. Our seamless crypto-to-crypto exchange ensures quick, effortless transactions every time.</p>
                             </div>
 
-                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 order-1 order-md-2 mb-3" data-cues="slideInUp" data-duration="800">
@@ -55,7 +55,7 @@ include "./components/mobile-navbar.php";
                                 <p>Why wait? Let’s make gift card trading fun again. 🚀</p>
                             </div>
 
-                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@ include "./components/mobile-navbar.php";
                                 <p class="mt-4">Stay connected without the hassle. With Billbuddy, paying bills is as easy as it should be.</p>
                             </div>
 
-                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 order-1 order-md-2 mb-3" data-cues="slideInUp" data-duration="800">

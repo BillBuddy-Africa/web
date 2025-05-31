@@ -83,7 +83,7 @@ include "./components/mobile-navbar.php";
                             <!-- reCAPTCHA widget -->
                             <div class="g-recaptcha pb-3" data-sitekey="6LejQU8rAAAAAO_roFDBNdNUVcPAndlcQVvCXJab"></div>
 
-                            <button type="submit" class="default-btn">Send Message <i class="ri-arrow-right-up-line"></i></button>
+                            <button type="submit" class="default-btn two">Send Message <i class="ri-arrow-right-up-line"></i></button>
                         </form>
                     </div>
                 </div>

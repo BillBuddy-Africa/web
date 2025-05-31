@@ -10,10 +10,10 @@
 
                                 <div class="app-btn">
                                     <a href="" target="_blank" class="me-3">
-                                        <img class="" src="assets/images/gplay.svg" width="200" alt="image">
+                                        <img class="" src="assets/images/gplay.svg" width="150" alt="image">
                                     </a>
                                     <a href="" target="_blank">
-                                        <img class="rounded-3" src="assets/images/apple.svg" width="200" alt="image">
+                                        <img class="rounded-3" src="assets/images/apple.svg" width="150" alt="image">
                                     </a>
                                 </div>
                             </div>

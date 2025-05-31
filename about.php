@@ -24,7 +24,7 @@ include "./components/mobile-navbar.php";
                                 </li>
                             </ul>
 
-                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn mt-5">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two mt-5">Get Started <i class="ri-arrow-right-up-line"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12" data-cues="slideInUp" data-duration="800">

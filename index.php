@@ -5,152 +5,78 @@ include "./components/navbar.php";
 include "./components/mobile-navbar.php";
 ?>
 
+        <div class="about-area two bg-color-000000">
+            <div class="container pt-5 pb-5">
+                <div class="row align-items-center pt-2">
+                    <div class="col-lg-6 col-md-12" data-cues="slideInDown" data-duration="800">
+                        <div class="about-us-content position-relative">
+                            <div class="section-heading">
+                                <h2 class="text-light">Buy, Sell, Pay.<br> All in One Place</h2>
+                                <p class="text-light">Trade crypto, buy or sell gift cards, top up airtime, <br>and pay utility bills all from one easy-to-use platform. <br>Join thousands of users across Africa powering their finances the smart way.</p>
+                            </div>
 
-        <!-- Start Main Banner Area -->
-        <div class="main-banner-area overflow-hidden position-relative" style="background-image: url(assets/images/hero/hero-image-1.svg)">
-            <div class="container-fluid side-padding pb-100">
-                <div class="row align-items-center">
-                    <div class="col-xl-5 col-lg-12" data-cues="slideInRight" data-duration="800">
-                        <div class="main-banner-content">
-                            <span class="sub-t">WELCOME TO FINTO</span>
-                            <h1>Secure <span><img src="assets/images/svg/your.svg" alt="image"> Your</span> Fintech Success For The Future</h1>
+                            <div class="app-btn">
+                                <a href="" target="_blank" class="me-1">
+                                    <img class="" src="assets/images/gplay.svg" width="150" alt="image">
+                                </a>
+                                <a href="" target="_blank" class="me-1">
+                                    <img class="rounded-3" src="assets/images/apple.svg" width="150" alt="image">
+                                </a>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-xl-7 col-lg-12" data-cues="slideInLeft" data-duration="800">
-                        <div class="info">
-                            <p>We are at the forefront of revolutionizing the financial landscape through cutting edge fintech solutions. Our mission is to bridge the gap between traditional banking and modern technology offering innovative and seamless financial services that cater to the evolving.</p>
-
-                            <div class="row align-items-center g-4">
-                                <div class="col-lg-5 col-md-5">
-                                    <ul class="user bg-color-ffffff radius">
-                                        <li>
-                                            <img class="rounded-circle" src="assets/images/user/user-image-2.jpg" alt="image">
-                                        </li>
-                                        <li>
-                                            <img class="rounded-circle" src="assets/images/user/user-image-3.jpg" alt="image">
-                                        </li>
-                                        <li>
-                                            <img class="rounded-circle" src="assets/images/user/user-image-1.jpg" alt="image">
-                                        </li>
-                                        <li>
-                                            8k+
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 col-md-6">
-                                    <div class="star-review">
-                                        <ul>
-                                            <li>
-                                                <i class="flaticon-star-2"></i>
-                                                <i class="flaticon-star-2"></i>
-                                                <i class="flaticon-star-2"></i>
-                                                <i class="flaticon-star-2"></i>
-                                                <i class="flaticon-star-2"></i>
-                                            </li>
-                                            <li>
-                                                <strong>4.9/5</strong> <span>Rating</span>
-                                            </li>
-                                            <li>
-                                                <span>From over 1000+ reviews</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="col-lg-6 col-md-12" data-cues="slideInRight" data-duration="800">
+                        <div class="processing-image position-relative">
+                            <img class="app-image-9" src="assets/images/hero-app.png" width="450" alt="image">
+                            <img class="app-image-8 radius-30" src="assets/images/hero-bg.jpg" alt="image">
+                            <img class="app-image-10 bounce" src="assets/images/bill-payment.svg" width="200" alt="image">
+                            <img class="feature-shape-1 moveVertical" src="assets/images/feature-shape-1.png" alt="shape">
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
 
-            <div class="card-area">
-                <div class="container-fluid side-padding">
-                    <div class="row g-4 justify-content-center" data-cues="slideInUp" data-duration="800">
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                            <div class="banner-card bg-color-ffffff radius-30">
-                                <div class="flex-warp position-relative">
-                                    <i>
-                                        <img src="assets/images/svg/grow.svg" alt="image">
-                                    </i>
-                                    <h3>Create A Card That Is Unique And Customized</h3>
-                                </div>
-                                <div class="banner-card-body bg-color-def1ee">
-                                    <img src="assets/images/service/service-image-1.png" alt="image">
+
+        <div class="partner-area two pt-5 pb-5 overflow-hidden">
+            <div class="container">
+                <div class="title">
+                    <p class="pb-0 mb-0">Also featured in</p>
+                </div>
+                <div class="partner-items">
+                    <div class="swiper partner-slide">
+                        <div class="swiper-wrapper text-center">
+                            <div class="swiper-slide">
+                                <div class="partner-logo">
+                                    <img src="assets/images/features/techpoint.png" alt="image">
                                 </div>
                             </div>
-
-                            <!-- Advice Area Start -->
-                            <div class="advice-area bg-color-ffffff radius-20">
-                                <div class="container-fluid">
-                                    <div class="advice-content">
-                                        <ul>
-                                            <li>Revenue</li>
-                                            <li>Investment</li>
-                                            <li>Deposit</li>
-                                            <li>Earnings</li>
-                                            <li>Transaction</li>
-                                            <li>Revenue</li>
-                                            <li>Investment</li>
-                                            <li>Deposit</li>
-                                            <li>Earnings</li>
-                                            <li>Transaction</li>
-                                            <li>Revenue</li>
-                                            <li>Investment</li>
-                                            <li>Deposit</li>
-                                            <li>Earnings</li>
-                                            <li>Transaction</li>
-                                            <li>Revenue</li>
-                                            <li>Investment</li>
-                                            <li>Deposit</li>
-                                            <li>Earnings</li>
-                                            <li>Transaction</li>
-                                        </ul>
-                                    </div>
+                            <div class="swiper-slide">
+                                <div class="partner-logo">
+                                    <img src="assets/images/features/techcabal.png" alt="image">
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                            <div class="banner-card part-two bg-color-9edd05 radius-30 position-relative">
-                                <div class="flex-warp position-relative">
-                                    <i>
-                                        <img src="assets/images/svg/corporation.svg" alt="image">
-                                    </i>
-                                    <h3>Transfers Across The Globe Are Free</h3>
-                                </div>
-                                <p class="mb-0">Our digital solutions transform money management investing and transaction.</p>
-                                <div class="banner-card-image">
-                                    <div class="text-end">
-                                        <img src="assets/images/service/service-image-2.png" alt="image">
-                                    </div>
-                                </div>
-
-                                <div class="total bg-color-ffffff radius">
-                                    <h4>Total Balance</h4>
-                                    <h5>$9,647.00</h5>
+                            <div class="swiper-slide">
+                                <div class="partner-logo">
+                                    <img src="assets/images/features/businessday.png" alt="image">
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                            <div class="banner-card part-three bg-color-ffffff radius-30 position-relative">
-                                <div class="flex-warp position-relative">
-                                    <i>
-                                        <img src="assets/images/svg/euro.svg" alt="image">
-                                    </i>
-                                    <h3>Personalized Insights And Financial Goals</h3>
+                            <div class="swiper-slide">
+                                <div class="partner-logo">
+                                    <img src="assets/images/features/disrupt.png" alt="image">
                                 </div>
-                                <div class="banner-image-body">
-                                    <div class="text-end">
-                                        <img class="service-image-3" src="assets/images/service/service-image-3.png" alt="image">
-                                    </div>
-                                    <img class="service-image-4" src="assets/images/service/service-image-4.png" alt="image">
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="partner-logo">
+                                    <img src="assets/images/features/guardian.webp" alt="image">
                                 </div>
-                                <i class="flaticon-star-5 star-5 moveHorizontal_reverse"></i>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- End Main Banner Area -->
+
 
         <!-- Start Features Area -->
         <div class="features-area bg-color-000000 ptb-120 overflow-hidden">
@@ -690,379 +616,9 @@ include "./components/mobile-navbar.php";
             </div>
         </div>
         <!-- End How It Works Area -->
-
-        <!-- Start Pricing Plan Area -->
-        <div class="pricing-plan-area ptb-120 bg-color-def1ee">
-            <div class="container">
-                <div class="section-title">
-                    <span class="sub-title">PRICING PLAN</span>
-                    <h2>Choose The Best <span><img src="assets/images/svg/lines-2.svg" alt="image">Plans</span> Which For You</h2>
-                </div>
-                <div class="row g-4 justify-content-center" data-cues="slideInUp" data-duration="800">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="pricing-card bg-color-ffffff radius-30">
-                            <div class="title position-relative">
-                                <h3>Essentials Plan</h3>
-                                <h4>$140/ <span>Per Month</span></h4>
-                                <img class="about-image-2" src="assets/images/about/about-image-2.png" alt="image">
-                            </div>
-
-                            <div class="pricing-card-body">
-                                <ul class="check">
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Global Corporate Cards
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Business Account And Bill Pay
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Real-Time Spend Reporting
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Billing In 50+ Countries
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Dedicated Support For Admins
-                                    </li>
-                                </ul>
-    
-                                <a href="contact.html" class="default-btn two w-100 text-center">Get Started <i class="ri-arrow-right-up-line"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="pricing-card active bg-color-ffffff radius-30">
-                            <div class="title position-relative">
-                                <h3>Premium Plan</h3>
-                                <h4>$160/ <span>Per Month</span></h4>
-                                <img class="about-image-2" src="assets/images/about/about-image-2.png" alt="image">
-                            </div>
-
-                            <div class="pricing-card-body">
-                                <ul class="check">
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Up To 10 Team Members
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Unlimited Usage
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Unlimited Drive Storage
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Concierge Help Center
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Custom AI Brand Models
-                                    </li>
-                                </ul>
-    
-                                <a href="contact.html" class="default-btn two w-100 text-center">Get Started <i class="ri-arrow-right-up-line"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="pricing-card bg-color-ffffff radius-30">
-                            <div class="title position-relative">
-                                <h3>Enterprise Plan</h3>
-                                <h4>$180/ <span>Per Month</span></h4>
-                                <img class="about-image-2" src="assets/images/about/about-image-2.png" alt="image">
-                            </div>
-
-                            <div class="pricing-card-body">
-                                <ul class="check">
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Wallet management
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Secure protocols
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Transaction editing
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Enhanced security
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-line"></i>
-                                        Advanced reporting
-                                    </li>
-                                </ul>
-    
-                                <a href="contact.html" class="default-btn two w-100 text-center">Get Started <i class="ri-arrow-right-up-line"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Pricing Plan Area -->
-
-        <!-- Start Testimonials Area -->
-        <div class="testimonials-area ptb-120">
-            <div class="container">
-                <div class="about-top mb-5">
-                    <div class="row align-items-center">
-                        <div class="col-lg-5 col-md-7" data-cues="slideInRight" data-duration="800">
-                            <div class="section-heading mb-0">
-                                <span class="sub-title">TESTIMONIALS</span>
-                                <h2 class="mb-0">Hear What Our <span><img src="assets/images/svg/lines-1.svg" alt="image">Clients</span> Say About Us</h2>
-                            </div>
-                        </div>
-                        <div class="col-lg-7 col-md-5" data-cues="slideInLeft" data-duration="800">
-                            <div class="content">
-                                <p>By integrating advanced technology with financial expertise we provide a comprehensive suite of services that cater to both individuals and businesses</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row" data-cues="slideInUp" data-duration="800">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="testimonials-image bg-color-9edd05 radius-30 position-relative">
-                            <img class="about-image-3" src="assets/images/about/about-image-3.png" alt="image">
-
-                            <img class="feature-shape-1 rotate" src="assets/images/shape/feature-shape-1.png" alt="image">
-                            <img class="feature-shape-2 rotate" src="assets/images/shape/feature-shape-1.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="testimonials-content">
-                            <div class="testimonials-card bg-color-fffaeb radius-30 mb-4">
-                                <ul>
-                                    <li>
-                                        <i class="flaticon-star-2"></i>
-                                        <i class="flaticon-star-2"></i>
-                                        <i class="flaticon-star-2"></i>
-                                        <i class="flaticon-star-2"></i>
-                                        <i class="flaticon-star-2"></i>
-                                    </li>
-                                </ul>
-                                <p>“We are at the forefront of revolutionizing the financial landscape through cutting fintech solutions Our mission is to bridge the gap between traditional banking and modern technology, offering innovative and seamless financial services that cater to the evolving needs of individuals.”</p>
-
-                                <div class="flex-warp d-flex align-items-center justify-content-between">
-                                    <div class="d-flex gap-4 align-items-center">
-                                        <img class="user-image-4 rounded-circle" src="assets/images/user/user-image-4.jpg" alt="image">
-                                        <div>
-                                            <h3>Steven H. Britten</h3>
-                                            <span>CEO & Founder</span>
-                                        </div>
-                                    </div>
-                                    <img class="right-quote" src="assets/images/svg/right-quote.svg" alt="image">
-                                </div>
-                            </div>
-
-                            <div class="testimonials-card bg-color-fffaeb radius-30">
-                                <ul>
-                                    <li>
-                                        <i class="flaticon-star-2"></i>
-                                        <i class="flaticon-star-2"></i>
-                                        <i class="flaticon-star-2"></i>
-                                        <i class="flaticon-star-2"></i>
-                                        <i class="flaticon-star-2"></i>
-                                    </li>
-                                </ul>
-                                <p>“We are at the forefront of revolutionizing the financial landscape through cutting fintech solutions Our mission is to bridge the gap between traditional banking and modern technology, offering innovative and seamless financial services that cater to the evolving needs of individuals.”</p>
-
-                                <div class="flex-warp d-flex align-items-center justify-content-between">
-                                    <div class="d-flex gap-4 align-items-center">
-                                        <img class="user-image-4 rounded-circle" src="assets/images/user/user-image-5.jpg" alt="image">
-                                        <div>
-                                            <h3>Kevin M. Rueda</h3>
-                                            <span>Businessman</span>
-                                        </div>
-                                    </div>
-                                    <img class="right-quote" src="assets/images/svg/right-quote.svg" alt="image">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Testimonials Area -->
-
-        <!-- Start Blog Area -->
-        <div class="blog-area pb-120">
-            <div class="container">
-                <div class="section-title">
-                    <span class="sub-title">LATEST BLOG</span>
-                    <h2>Smart Tools For <span><img src="assets/images/svg/lines-1.svg" alt="image">Creative</span> Financial Planning</h2>
-                </div>
-                <div class="row g-4" data-cues="slideInUp" data-duration="800">
-                    <div class="col-xl-6 col-lg-12 col-md-12">
-                        <div class="blog-card bg-color-edf1ee radius-30 mb-4">
-                            <div class="row align-items-center">
-                                <div class="col-lg-5 col-md-5">
-                                    <div class="blog-image">
-                                        <a href="blog-details.html" class="d-block">
-                                            <img src="assets/images/blog/blog-image-1.jpg" class="blog-image-1" alt="image">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-7 col-md-7">
-                                    <div class="blog-card-body">
-                                        <ul>
-                                            <li><i class="ri-calendar-2-line"></i> Aug 06, 2024</li>
-                                            <li><i class="ri-message-line"></i> No Comment</li>
-                                        </ul>
-                                        <h3>
-                                            <a href="blog-details.html">How To Easily Understand Your Insurance Contract</a>
-                                        </h3>
-                                        <p>With a robust suite of products ranging from digital banking and payment processing.</p>
-                                        <a href="blog-details.html" class="read-more">Read More <i class="ri-arrow-right-up-line"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="blog-card bg-color-edf1ee radius-30">
-                            <div class="row align-items-center">
-                                <div class="col-lg-5 col-md-5">
-                                    <div class="blog-image">
-                                        <a href="blog-details.html" class="d-block">
-                                            <img src="assets/images/blog/blog-image-2.jpg" class="blog-image-1" alt="image">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-7 col-md-7">
-                                    <div class="blog-card-body">
-                                        <ul>
-                                            <li><i class="ri-calendar-2-line"></i> Aug 07, 2024</li>
-                                            <li><i class="ri-message-line"></i> No Comment</li>
-                                        </ul>
-                                        <h3>
-                                            <a href="blog-details.html">The Basics Of Financial Responsibility</a>
-                                        </h3>
-                                        <p>With a robust suite of products ranging from digital banking and payment processing.</p>
-                                        <a href="blog-details.html" class="read-more">Read More <i class="ri-arrow-right-up-line"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-12 col-md-12">
-                        <div class="single-blog bg-color-edf1ee radius-30">
-                            <a href="blog-details.html" class="d-block">
-                                <img src="assets/images/blog/blog-image-3.jpg" class="blog-image-3" alt="image">
-                            </a>
-                            <div class="single-blog-card-body">
-                                <ul>
-                                    <li><i class="ri-calendar-2-line"></i> Aug 08, 2024</li>
-                                    <li><i class="ri-message-line"></i> No Comment</li>
-                                </ul>
-                                <h3>
-                                    <a href="blog-details.html">Effective Financial Management Crucial For Most Organizations</a>
-                                </h3>
-                                <p>We are at the forefront of revolutionizing the financial landscape through cutting solutions Our mission is to bridge the gap between traditional banking.</p>
-                                <a href="blog-details.html" class="read-more">Read More <i class="ri-arrow-right-up-line"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Blog Area -->
-
-        <!-- Start Faq Area -->
-        <div class="faq-area pb-120 overflow-hidden">
-            <div class="container">
-                <div class="row g-4 align-items-center">
-                    <div class="col-lg-6 col-md-12" data-cues="slideInRight" data-duration="800">
-                        <div class="question-card bg-color-9edd05 radius-30">
-                            <div class="section-heading">
-                                <span class="sub-title">FAQ</span>
-                                <h2>Frequently <span><img src="assets/images/svg/lines-4.svg" alt="image">Asked</span> Questions</h2>
-                                <p>With a robust suite of products ranging from digital banking and payment processing to wealth management and blockchain applications.</p>
-                            </div>
-                            <img class="radius-30" src="assets/images/blog/blog-image-4.jpg" alt="image">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12" data-cues="slideInLeft" data-duration="800">
-                        <div class="faq-content">
-                            <div class="accordion" id="accordionFAQ">
-                                <div class="accordion-item">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBang" aria-expanded="false" aria-controls="collapseBang">
-                                        1. Why should I care about financial planning?
-                                    </button>
-                                    <div id="collapseBang" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            <p>Our mission is to bridge the gap between traditional banking and modern offering innovative and seamless financial services that cater to the evolving needs of individuals and businesses alike. With a robust suite.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSunam" aria-expanded="false" aria-controls="collapseSunam">
-                                        2. What are the different types of investments?
-                                    </button>
-                                    <div id="collapseSunam" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            <p> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDinaj" aria-expanded="false" aria-controls="collapseDinaj">
-                                        3. How can I start saving for retirement?
-                                    </button>
-                                    <div id="collapseDinaj" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePage" aria-expanded="false" aria-controls="collapsePage">
-                                        4. What is the importance of emergency funds?
-                                    </button>
-                                    <div id="collapsePage" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLoan" aria-expanded="false" aria-controls="collapseLoan">
-                                        5. What can I use a personal loan for?
-                                    </button>
-                                    <div id="collapseLoan" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseScore" aria-expanded="false" aria-controls="collapseScore">
-                                        6. What credit score is needed for a personal loan?
-                                    </button>
-                                    <div id="collapseScore" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         
 <?php 
+include "./components/testimonial.php";
 include "./components/cta.php";
 include "./components/footer.php";
 ?>
