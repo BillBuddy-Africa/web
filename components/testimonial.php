@@ -17,7 +17,8 @@
                     </div>
 
                     <div class="col-lg-6 col-md-12">
-                        <div class="testimonial-said bg-color-0c3a30 radius-30">
+                        <div class="testimonial-said radius-30" style="background-color: #0c3a30;">
+                            <h2>“What Our Clients Said”</h2>
                             <div class="testimonial-items position-relative">
                                 <div class="swiper testimonial-slide">
                                     <div class="swiper-wrapper">
