@@ -17,7 +17,7 @@ include "./components/mobile-navbar.php";
         <div class="about-area two">
             <div class="container pt-120 pb-5">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12 order-2 order-md-1" data-cues="slideInDown" data-duration="800">
+                    <div class="col-lg-6 col-md-12 order-2 order-md-1 text-center text-md-left" data-cues="slideInDown" data-duration="800">
                         <div class="about-us-content position-relative">
                             <div class="section-heading">
                                 <h2>Buy & Sell Cryptocurrencies</h2>
@@ -46,7 +46,7 @@ include "./components/mobile-navbar.php";
                             <img class="radius-30" src="assets/images/giftcardimg.jpg" alt="image">
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12 order-2 order-md-2" data-cues="slideInDown" data-duration="800">
+                    <div class="col-lg-6 col-md-12 order-2 order-md-2 text-center text-md-left" data-cues="slideInDown" data-duration="800">
                         <div class="about-us-content position-relative">
                             <div class="section-heading">
                                 <h2>Buy & Sell Gift Cards, Fast & Fuss-Free</h2>
@@ -66,7 +66,7 @@ include "./components/mobile-navbar.php";
         <div class="about-area two">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12 order-2 order-md-1" data-cues="slideInDown" data-duration="800">
+                    <div class="col-lg-6 col-md-12 order-2 order-md-1 text-center text-md-left" data-cues="slideInDown" data-duration="800">
                         <div class="about-us-content position-relative">
                             <div class="section-heading">
                                 <h2>Bill Payments with Zero Fuss</h2>

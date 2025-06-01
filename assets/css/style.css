@@ -18342,6 +18342,15 @@ Preloader Area CSS
   }
 }
 
+@media (min-width: 768px) {
+  .text-md-left {
+    text-align: left !important; }
+  .text-md-right {
+    text-align: right !important; }
+  .text-md-center {
+    text-align: center !important; } 
+}
+
 .banner-style {
     padding-top: 180px;
     padding-bottom: 180px;

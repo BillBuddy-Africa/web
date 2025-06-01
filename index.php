@@ -8,7 +8,7 @@ include "./components/mobile-navbar.php";
         <div class="about-area two bg-color-000000">
             <div class="container pt-5 pb-5">
                 <div class="row align-items-center pt-2">
-                    <div class="col-lg-6 col-md-12" data-cues="slideInDown" data-duration="800">
+                    <div class="col-lg-6 col-md-12 text-center text-md-left" data-cues="slideInDown" data-duration="800">
                         <div class="about-us-content position-relative">
                             <div class="section-heading">
                                 <h2 class="text-light">Buy, Sell, Pay.<br> All in One Place</h2>
@@ -186,8 +186,8 @@ include "./components/mobile-navbar.php";
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-12">
-                                            <div class="service-image">
-                                                <img class="radius-30" src="assets/images/bill-paymenta.svg" alt="image">
+                                            <div class="service-image text-center">
+                                                <img class="radius-30" src="assets/images/bill-paymenta.svg"  width="300"  alt="image">
                                             </div>
                                         </div>
                                     </div>
@@ -197,7 +197,7 @@ include "./components/mobile-navbar.php";
                     </div>
                 </div>
             </div>
-        </div>
+        </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
         
 <?php 
