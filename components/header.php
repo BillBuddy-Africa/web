@@ -25,7 +25,7 @@
         <div class="preloader-area text-center position-fixed top-0 bottom-0 start-0 end-0" id="preloader">
             <div class="loader position-absolute start-0 end-0">
                 <div class="wavy position-relative fw-light">
-                    <span class="d-inline-block mgb-4"><img src="assets/images/loading.svg" width="300" alt="favicon"></span>
+                    <span class="d-inline-block mgb-4 mb-1"><img src="assets/images/favicon1.jpg" width="150" alt="favicon"></span>
                 </div>
             </div>
         </div>
