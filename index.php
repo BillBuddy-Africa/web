@@ -16,12 +16,13 @@ include "./components/mobile-navbar.php";
                             </div>
 
                             <div class="app-btn">
-                                <a href="" target="_blank" class="me-1">
+                                <!-- <a href="" target="_blank" class="me-1">
                                     <img class="" src="assets/images/gplay.svg" width="150" alt="image">
                                 </a>
                                 <a href="" target="_blank" class="me-1">
                                     <img class="rounded-3" src="assets/images/apple.svg" width="150" alt="image">
-                                </a>
+                                </a> -->
+                                <a href="https://usebillbuddy.com/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                             </div>
                         </div>
                     </div>
@@ -97,7 +98,7 @@ include "./components/mobile-navbar.php";
                                 <p class="text-white"><i class="ri-check-line"></i> <b>Always Available, Always Reliable:</b> Whether you're trading crypto or paying bills, Billbuddy is designed to be accessible 24/7, whenever you need us. Our team is committed to offering customer support and ensuring your experience is smooth every time.</p>
                             </div>
 
-                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                            <a href="https://usebillbuddy.com/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +122,7 @@ include "./components/mobile-navbar.php";
                                                 <p>Looking for a hassle-free way to trade crypto? Our secure platform makes buying cryptocurrency simple, fast, and cost-effective, with competitive rates and an intuitive experience.</p>
                                                 <p>Sell your digital assets at the best possible value and get your fiat balance credited instantly. No more pending or failed transactions—just smooth and secure trading.</p>
                                                 <p>Need to swap coins? Skip the extra steps and swap crypto directly without fiat conversion. Our seamless crypto-to-crypto exchange ensures quick, effortless transactions every time.</p>
-                                                <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                                                <a href="https://usebillbuddy.com/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-12">
@@ -145,7 +146,7 @@ include "./components/mobile-navbar.php";
                                                 <p>Got gift cards you’re not using? Turn them into cash or crypto in just a few clicks—super easy, super fast. You'll be credited before you can say "Billbuddy rocks!"</p>
                                                 <p>Shopping for gift cards? We've got your favorites! Pick your card, follow a few simple steps, and boom—it’s in your inbox, ready to go.</p>
                                                 <p>Why wait? Let’s make gift card trading fun again. 🚀</p>
-                                                <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                                                <a href="https://usebillbuddy.com/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-12">
@@ -182,7 +183,7 @@ include "./components/mobile-navbar.php";
                                                     </li>
                                                 </ul>
                                                 <p class="mt-2">Stay connected without the hassle. With Billbuddy, paying bills is as easy as it should be.</p>
-                                                <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                                                <a href="https://usebillbuddy.com/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-12">

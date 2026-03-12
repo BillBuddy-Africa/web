@@ -29,11 +29,11 @@
                         </a>
 
                         <ul class="mobile-menu-items">
-                            <li>
+                            <!-- <li>
                                 <a class="dropdown-item" href="https://rayes.billbuddy.africa" target="_blank">
                                     Rate Calculator
                                 </a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a class="dropdown-item <?php if($page=='FAQ'){echo 'active';}?>" href="faq">
                                     FAQ's
@@ -70,10 +70,10 @@
                 <div class="others-options">
                     <ul class="d-flex align-items-center ps-0 mb-0 list-unstyled">
                         <li>
-                            <a href="https://app.billbuddy.africa/login" target="_blank" class="search-btn login"><i class="ri-account-circle-line"></i> Log in</a>
+                            <a href="https://usebillbuddy.com/" target="_blank" class="search-btn login"><i class="ri-account-circle-line"></i> Log in</a>
                         </li>
                         <li>
-                            <a href="https://app.billbuddy.africa/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
+                            <a href="https://usebillbuddy.com/signup" target="_blank" class="default-btn two">Get Started <i class="ri-arrow-right-up-line"></i></a>
                         </li>
                     </ul>
                 </div>
